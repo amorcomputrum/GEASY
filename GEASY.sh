@@ -1,5 +1,5 @@
 #!/bin/bash
-Compile(){
+Geasy(){
 	if test -f "conf.json";then
 		LIBPRE=`cat conf.json | jq -r '.libPrefixes[]'`
 		INCLUSIONS=`cat conf.json | jq -r '.Include[]'`
