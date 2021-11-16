@@ -4,8 +4,8 @@
 - Then add "source ~/TerminalScripts/GEASY.sh" to ~/.bashrc 
 
 ## How to Use
-### When in directory to compile, type "Compile". If the nessacary files are not present, GEASY will import them.
-* If compiling for windows from linux, use "Compile -w".
+### When in directory to compile, type "Geasy". If the nessacary files are not present, GEASY will import them.
+* If compiling for windows from linux, use "Geasy -w".
 * For all flags, add them to "libPrefixes"(array) in the proper conf file.
 * For all Library Directories(-L), add them to "libs"(array) in the proper conf file.
 * For all Included Directories(-I), add them to "Include"(array) in the proper conf file.
