@@ -16,6 +16,6 @@
   - No, you will have to import them in yourself
 - Why mingw and not cmake
   - Because I like to use g++....Thats it
-- Why isn't "Compile -w" working
-  - Compile -w, only compiles for amd64 Windows systems.You must install x86_64-w64-mingw32-g++ to your system
+- Why isn't "Geasy -w" working
+  - Geasy -w, only compiles for amd64 Windows systems.You must install x86_64-w64-mingw32-g++ to your system
 
