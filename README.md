@@ -13,9 +13,9 @@
 
 ## Answers
 - Will the dlls be imported
-- - No, you will have to import them in yourself
+  - No, you will have to import them in yourself
 - Why mingw and not cmake
-- - Because I like to use g++....Thats it
+  - Because I like to use g++....Thats it
 - Why isn't "Compile -w" working
-- - Compile -w, only compiles for amd64 Windows systems.You must install x86_64-w64-mingw32-g++ to your system
+  - Compile -w, only compiles for amd64 Windows systems.You must install x86_64-w64-mingw32-g++ to your system
 
