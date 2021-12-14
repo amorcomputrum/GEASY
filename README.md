@@ -1,7 +1,7 @@
 # GEASY
 ## Installation
 - To move files to proper directory, run INSTALL.sh
-- Then you add Geasy.sh to your terminal
+- Then add "source ~/TerminalScripts/GEASY.sh" to ~/.bashrc
 
 ## How to Use
 **When in directory to compile, type "Geasy". If the nessacary files are not present, GEASY will import them.**
